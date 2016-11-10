@@ -36,6 +36,7 @@ bluetooth.hfp.client=1
 
 # Camera
 persist.camera.HAL3.enabled=1
+camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.tencent.mm,com.google.android.GoogleCamera
 
 # CNE/DPM
 persist.cne.feature=1
